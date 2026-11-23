@@ -14,10 +14,6 @@ A responsive **full-stack task management web application** built with **PHP, Va
 - Persistent SQLite storage (no external database server needed)
 - JSON API with parameterized SQL queries and input validation
 
-## Screenshots
-
-Add screenshots to `docs/` after running the application, then include them here.
-
 ## Requirements
 
 - PHP **8.1+** with extensions `pdo_sqlite` and `mbstring` enabled
